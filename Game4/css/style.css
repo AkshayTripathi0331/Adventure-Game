@@ -1,0 +1,17 @@
+h1 {
+	font-size: 180%; 
+	color: grey
+}
+p {
+	font-size: 15;
+	margin-top: 5;
+}
+aside {
+	color: silver;
+	position: absolute;
+	left: 880px;
+	margin-top: 10;
+}
+address {
+	bottom: 10px;
+}
