@@ -40,6 +40,11 @@ cd adventure-games
 ![Screenshot 3](screenshots/game3.png)
 ![Screenshot 4](screenshots/game4.png)
 
+## Live Demo
+
+A live demo of the project is hosted on GitHub Pages: [Adventure Games](https://akshaytripathi0331.github.io/Adventure-Game/)
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
